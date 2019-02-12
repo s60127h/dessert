@@ -1,0 +1,32 @@
+<table>
+<thead>
+    <tr>
+        <td>Name</td>
+        <td>Aisle</td>
+        <td>Price</td>
+        <td>Quamtity</td>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Bread</td>
+        <td>2</td>
+        <td>$3.00</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Milk</td>
+        <td>1</td>
+        <td>$2.50</td>
+        <td>2</td>
+    </tr>
+</tbody>
+<tfoot>
+    <tr>
+        <td>Total</td>
+        <td>3</td>
+        <td>$5.50</td>
+        <td>3</td>
+    </tr>
+</tfoot>
+</table>

@@ -1,0 +1,192 @@
+.container{
+/*    max-width: 940px;  */
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #092b4b;
+}
+
+.menu-container{
+    display: block;
+    box-sizing: border-box;
+    background-color: #092b4b;
+    border-top: 3px solid #454141;
+    height: 80px;
+}
+
+.menu-logo{
+    margin-left: 10%;
+    width: 160px;
+    float: left;
+    color: #dcd5d5;
+}
+
+
+.index-body{
+    position: relative;
+
+}
+.site-nav{
+    margin-top: 17px;
+    width: 450px;
+    float: right;
+}
+
+.site-nav ul{
+    margin: 0; /*移除ul預設格式*/
+    padding: 0;
+}
+
+.site-nav li{
+    list-style: none; /*移除圓圈符號*/
+    float: left;
+    margin-right: 5px;
+}
+
+.site-nav a{
+    display: block;
+    padding: 10px 20px;
+    margin-top: 5px;
+    border: 1.5px solid #8d8686;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.index-body img{
+    width: 100%;
+    display: block;
+}
+
+.index-image-dessert a{
+    text-decoration: none;
+    color: #dcd5d5;
+}
+
+.dessert-description{
+    /*position*/
+    position: absolute;
+    top:7%;
+    left: 0%;
+    /*format style*/
+    margin: 0px;
+	line-height: 50px;
+	width: 100%;
+	text-align: center;
+	font-weight: normal;
+	font-size: 165%;
+	color: #dcd5d5;
+	background-color: #656060a6;
+}
+
+.dessert-botton{
+	/*position*/
+    position: absolute;
+    top:13%;
+    left: 9%;
+    /*format style*/
+	margin: 0px;
+	line-height: 50px;
+	width: 150px;
+	text-align: center;
+	font-weight: normal;
+	font-size: 130%;
+	color: #dcd5d5;
+	background-color: 8080806e;
+	border: 1.5px solid #dcd5d5;
+	padding: 0px 5px;
+}
+
+.index-image-restaurant a{
+    text-decoration: none;
+    color: #626060;
+}
+
+.restaurant-description{
+    /*position*/
+    position: absolute;
+    top:41%;
+    left: 0%;
+    /*format style*/
+    margin: 0px;
+	line-height: 50px;
+	width: 100%;
+	text-align: center;
+	font-weight: normal;
+	font-size: 165%;
+	color: #dcd5d5;
+	background-color: #656060a6;
+}
+
+.restaurant-botton{
+	/*position*/
+    position: absolute;
+    top:47%;
+    left: 13%;
+    /*format style*/
+	margin: 0px;
+	line-height: 50px;
+	width: 150px;
+	text-align: center;
+	font-weight: normal;
+	font-size: 130%;
+	color: #626060;
+	background-color: 8080806e;
+	border: 1.5px solid #626060;
+	padding: 0px 5px;
+}
+
+.index-image-photo a{
+    text-decoration: none;
+    color: #dcd5d5;
+}
+
+.photo-description{
+    /*position*/
+    position: absolute;
+    top:75%;
+    left: 0%;
+    /*format style*/
+    margin: 0px;
+	line-height: 50px;
+	width: 100%;
+	text-align: center;
+	font-weight: normal;
+	font-size: 165%;
+	color: #dcd5d5;
+	background-color: #656060a6;
+}
+
+.photo-botton{
+	/*position*/
+    position: absolute;
+    top:79%;
+    left: 71%;
+    /*format style*/
+	margin: 0px;
+	line-height: 50px;
+	width: 150px;
+	text-align: center;
+	font-weight: normal;
+	font-size: 130%;
+	color: #dcd5d5;
+	background-color: 8080806e;
+	border: 1.5px solid #dcd5d5;
+	padding: 0px 5px;
+}
+
+.footer{
+    width: 100%;
+    display: block;
+    background-color: #092b4b;
+    line-height: 100px;
+    text-align: center;
+    font-weight: normal;
+    margin: 0px;
+    color: #dcd5d5;
+    border-bottom: 10px solid;
+}
+
+.clear:after {
+	content:"";
+	display: block;
+	clear: both;
+}
