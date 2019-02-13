@@ -12,7 +12,7 @@
   <div class="container">
     <div class="menu-container">
       <div class="menu-logo">
-        <h1>My Dessert</h1>
+        <h1><a href="#">My Dessert</a></h1>
       </div><!-- menu-logo -->
       <nav class="site-nav">
         <ul class="clear">
