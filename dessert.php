@@ -5,7 +5,7 @@
     <title>手作甜點</title>
 </head>
 
-<body>
+<body class="container">
     <?php include("nav.php") ?>
     <!-- 要多給圖片一個div不然margin-top不對會跑版 -->
 	<div class="main-area clear">
@@ -38,6 +38,46 @@
         <li>
             <a href="#" class="wrapper">
                 <img src="images/dessert/抹茶紅豆千層.jpg">
+            </a> 
+        </li>
+        <li>
+            <a href="#" class="wrapper">
+                <img src="images/dessert/三眼怪抹茶塔.jpg">
+            </a> 
+        </li>
+        <li>
+            <a href="#" class="wrapper">
+                <img src="images/dessert/牛粒.jpg">
+            </a> 
+        </li>
+        <li>
+            <a href="#" class="wrapper">
+                <img src="images/dessert/台式蛋塔.jpg">
+            </a> 
+        </li>
+        <li>
+            <a href="#" class="wrapper">
+                <img src="images/dessert/原味日式起司條.jpg">
+            </a> 
+        </li>
+        <li>
+            <a href="#" class="wrapper">
+                <img src="images/dessert/鬆餅.jpg">
+            </a> 
+        </li>
+        <li>
+            <a href="#" class="wrapper">
+                <img src="images/dessert/輕乳酪蛋糕.jpg">
+            </a> 
+        </li>
+        <li>
+            <a href="#" class="wrapper">
+                <img src="images/dessert/生巧克力塔.jpg">
+            </a> 
+        </li>
+        <li>
+            <a href="#" class="wrapper">
+                <img src="images/dessert/三明治.jpg">
             </a> 
         </li>
       </ul>

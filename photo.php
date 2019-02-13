@@ -5,7 +5,7 @@
     <title>攝影景點</title>
 </head>
 
-<body>
+<body class="container">
     <?php include("nav.php") ?>
 
     <?php include("footer.php") ?>

@@ -7,22 +7,9 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" charset="utf-8">
     <title>Dessert</title>
 </head>
-<body>
+<body class="container">
 
-  <div class="container">
-    <div class="menu-container">
-      <div class="menu-logo">
-        <h1><a href="#">My Dessert</a></h1>
-      </div><!-- menu-logo -->
-      <nav class="site-nav">
-        <ul class="clear">
-          <li><a href="dessert.php">手作甜點</a></li>
-          <li><a href="restaurant.php">餐廳推薦</a></li>
-          <li><a href="photo.php">攝影景點</a></li>
-          <li><a href="work.php">作品集</a></li>
-        </ul>
-      </nav>
-    </div><!-- menu-container -->
+    <?php include("nav.php") ?>
 
     <div class="index-body">
       <div class="index-image-dessert">
@@ -49,7 +36,5 @@
     </div><!-- body -->
 
     <?php include("footer.php") ?>
-
-  </div><!-- container -->
 </body>
 </html>

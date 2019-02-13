@@ -4,9 +4,9 @@ html {
 
 .container{
 /*    max-width: 940px;  */
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     background-color: #092b4b;
+    width: 100%;
 }
 
 .menu-container{
