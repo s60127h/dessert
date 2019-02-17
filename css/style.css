@@ -9,6 +9,12 @@ html {
     width: 100%;
 }
 
+.hr-style{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, #9e9c9c, #e2e0e0, #9e9c9c);
+}
+
 .menu-container{
     display: block;
     box-sizing: border-box;
@@ -199,10 +205,16 @@ html {
 #gallery li{
     float: left;
     margin-top: 30px;
-    padding-left: 30px;
+    padding-left: 50px;
     /*設定每個li標籤寬度=1/3*/
-    width :calc(100%/4);
+    width :calc(100%/3);
     box-sizing: border-box;
+    height: 0;
+    padding-bottom: 25%;
+}
+
+#gallery a{
+    text-decoration: none;
 }
 
 .wrapper{
@@ -213,6 +225,16 @@ html {
 .wrapper img{
     width: 100%;
     display: block;
+}
+
+.dessert-title{
+    color: #dcd5d5;
+}
+
+.dessert-name{
+    color: #dcd5d5;
+    text-align: center;
+    font-size: 130%
 }
 
 .footer{
