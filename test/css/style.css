@@ -2,8 +2,14 @@ h1{
     color: red;
 }
 
-
-
+input {
+    display: block;
+  }
+  
+  .panel {
+    display: none;
+  }
+  
 
 
 article div p{
