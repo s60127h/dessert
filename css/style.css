@@ -21,11 +21,14 @@ html {
     background-color: #092b4b;
     border-top: 3px solid #454141;
     height: 80px;
+    padding-left:10%;
+    padding-right:10%;
 }
 
 .menu-logo{
-    margin-left: 10%;
-    width: 160px;
+	margin-left: 5%;
+	margin-right: 5%;
+    width: 20%;
     float: left;
     color: #dcd5d5;
 }
@@ -35,33 +38,49 @@ html {
     color: #dcd5d5;
 }
 
-.index-body{
-    position: relative;
-}
-.site-nav{
+.nav-menu{
     margin-top: 17px;
-    width: 450px;
-    float: right;
+    width: 45%;
+    float: left;
 }
 
-.site-nav ul{
-    margin: 0; /*移除ul預設格式*/
+.nav ul{
+    margin: 0; /*ç§»é™¤ulé è¨­æ ¼å¼*/
     padding: 0;
 }
 
-.site-nav li{
-    list-style: none; /*移除圓圈符號*/
+.nav li{
+    list-style: none; /*ç§»é™¤åœ“åœˆç¬¦è™Ÿ*/
     float: left;
     margin-right: 5px;
 }
 
-.site-nav a{
+.nav-menu a{
     display: block;
     padding: 10px 20px;
     margin-top: 5px;
-    border: 1.5px solid #8d8686;
-    color: whitesmoke;
+    color: #d6d1d1;
     text-decoration: none;
+}
+
+.nav-menu a:hover{
+    color: white;
+    font-weight: bold;
+}
+
+.nav-contact {
+    margin-top: 27px;
+    width: 15%;
+    float: left;
+}
+
+.nav-contact img{
+	width: 27px;
+	margin-right: 5px;
+}
+
+.index-body{
+    position: relative;
 }
 
 .index-body img{
@@ -206,7 +225,7 @@ html {
     float: left;
     margin-top: 30px;
     padding-left: 50px;
-    /*設定每個li標籤寬度=1/3*/
+    /*è¨­å®šæ¯å€‹liæ¨™ç±¤å¯¬åº¦=1/3*/
     width :calc(100%/3);
     box-sizing: border-box;
     height: 0;
