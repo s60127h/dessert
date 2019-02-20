@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-    <?php include("header.php") ?>
+    <?php include("head.php") ?>
     <title>攝影景點</title>
 </head>
 

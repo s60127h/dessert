@@ -21,13 +21,13 @@ html {
     background-color: #092b4b;
     border-top: 3px solid #454141;
     height: 80px;
-    padding-left:10%;
-    padding-right:10%;
+    padding-left:5%;
+    padding-right:5%;
 }
 
 .menu-logo{
-	margin-left: 5%;
 	margin-right: 5%;
+	margin-left: 5%;
     width: 20%;
     float: left;
     color: #dcd5d5;
@@ -40,7 +40,7 @@ html {
 
 .nav-menu{
     margin-top: 17px;
-    width: 45%;
+    width: 55%;
     float: left;
 }
 
@@ -53,6 +53,10 @@ html {
     list-style: none; /*ç§»é™¤åœ“åœˆç¬¦è™Ÿ*/
     float: left;
     margin-right: 5px;
+}
+
+.nav li p{
+    color: #d6d1d1;
 }
 
 .nav-menu a{
@@ -71,7 +75,7 @@ html {
 .nav-contact {
     margin-top: 27px;
     width: 15%;
-    float: left;
+    float: right;
 }
 
 .nav-contact img{
@@ -110,6 +114,12 @@ html {
 }
 
 .dessert-botton{
+    /*format style*/
+	margin: 0px;
+	padding: 0px 5px;
+}
+
+.dessert-botton a{
 	/*position*/
     position: absolute;
     top:13%;
@@ -120,11 +130,16 @@ html {
 	width: 150px;
 	text-align: center;
 	font-weight: normal;
-	font-size: 130%;
+	font-size: 65%;
 	color: #dcd5d5;
 	background-color: 8080806e;
 	border: 1.5px solid #dcd5d5;
 	padding: 0px 5px;
+}
+
+.dessert-botton a:hover{
+	display: block;
+    background-color: #4f4c4cad;
 }
 
 .index-image-restaurant a{
@@ -149,6 +164,12 @@ html {
 }
 
 .restaurant-botton{
+    /*format style*/
+	margin: 0px;
+	padding: 0px 5px;
+}
+
+.restaurant-botton a{
 	/*position*/
     position: absolute;
     top:47%;
@@ -159,11 +180,17 @@ html {
 	width: 150px;
 	text-align: center;
 	font-weight: normal;
-	font-size: 130%;
+	font-size: 65%;
 	color: #626060;
 	background-color: 8080806e;
 	border: 1.5px solid #626060;
 	padding: 0px 5px;
+}
+
+.restaurant-botton a:hover{
+	display: block;
+    background-color: #ebebebcf;
+    color: #181818e8;
 }
 
 .index-image-photo a{
@@ -188,6 +215,12 @@ html {
 }
 
 .photo-botton{
+    /*format style*/
+	margin: 0px;
+	padding: 0px 5px;
+}
+
+.photo-botton a{
 	/*position*/
     position: absolute;
     top:79%;
@@ -198,11 +231,16 @@ html {
 	width: 150px;
 	text-align: center;
 	font-weight: normal;
-	font-size: 130%;
+	font-size: 65%;
 	color: #dcd5d5;
 	background-color: 8080806e;
 	border: 1.5px solid #dcd5d5;
 	padding: 0px 5px;
+}
+
+.photo-botton a:hover{
+	display: block;
+    background-color: #4f4c4cad;
 }
 
 /*Article Style*/
