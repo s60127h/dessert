@@ -5,7 +5,7 @@
     <title>手作甜點</title>
 </head>
 
-<body class="container">
+<body class="container-body">
     <?php include("nav.php") ?>
     <!-- 要多給圖片一個div不然margin-top不對會跑版 -->
 	<div class="main-area clear">

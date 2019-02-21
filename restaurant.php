@@ -5,7 +5,7 @@
     <title>餐廳推薦</title>
 </head>
 
-<body class="container">
+<body class="container-body">
     <?php include("nav.php") ?>
 
     <?php include("footer.php") ?>

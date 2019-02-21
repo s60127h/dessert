@@ -4,33 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css" charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
     <title>Dessert</title>
 </head>
 <body>
-<!--
-  <div class="container">
-    <div class="content-area">
-      <div class="main-area">
-        <?php include("header.php"); ?>
-      </div><!-- main-area -->
-      <?php include("nav.php"); ?>
-      <aside class="side-bar">
-        <ul>
-          <li>London</li>
-          <li>Paris</li>
-          <li>Tokyo</li>
-        </ul>
-      </aside><!-- sidebar -->
-    </div><!-- content-area -->
-    <article>
-        <h2>london</h2>
-        <div class="article-body">
-          <p>qwerifow wkeorpkops wpokefdlkpc wekopkosf kwopeflps wkoepf,lpw mpsw wkfopwpod</p>
-        </div>
-    </article>
-    <?php include("footer.php");?>
-
-  </div><!-- container -->
+    <header>
+      <h1>HTML</h1>
+    </header>
+    <nav>
+      <p>
+        <a href="#">Home</a>
+      </p>
+      <p>
+        <a href="contect.php">CONTACT</a>
+      </p>
+    </nav>
 </body>
 </html>
