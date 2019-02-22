@@ -4,7 +4,7 @@
     <?php include("head.php") ?> 
     <title>Dessert</title>
 </head>
-<body class="container-body" id="naveffect">
+<body class="container-body">
 
     <?php include("nav.php") ?>
 

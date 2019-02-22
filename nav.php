@@ -1,4 +1,3 @@
-
     <div class="menu-container wow slideInDown">
       <div class="menu-logo clear">
         <h1><a href="index.php">My Dessert</a></h1>

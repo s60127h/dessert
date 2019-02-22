@@ -7,6 +7,7 @@ html {
     margin: auto;
     background-color: #092b4b;
     width: 100%;
+    font-family: Microsoft JhengHei, Arial, sans-serif;
 }
 
 .hr-style{
@@ -38,24 +39,40 @@ html {
     color: #dcd5d5;
 }
 
+.menu-logo a:hover{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.menu-logo h1{
+	margin: 0px;
+	margin-top: 11px;
+	text-align: center;
+	font-weight: normal;
+}
+
 .nav-menu{
-    margin-top: 17px;
-    width: 55%;
+    margin-top: 10px;
+    font-size: 130%;
+    width: 65%;
     float: left;
 }
 
 .nav ul{
-    margin: 0; /*ç§»é™¤ulé è¨­æ ¼å¼*/
+    margin: 0; 
     padding: 0;
 }
 
 .nav li{
-    list-style: none; /*ç§»é™¤åœ“åœˆç¬¦è™Ÿ*/
+    list-style: none; 
     float: left;
     margin-right: 5px;
 }
 
 .nav li p{
+	margin-top: 13px;
+	font-size: 110%;
     color: #d6d1d1;
 }
 
@@ -70,17 +87,20 @@ html {
 .nav-menu a:hover{
     color: white;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .nav-contact {
     margin-top: 27px;
-    width: 15%;
+    margin-right: 5%;
+	margin-left: 7%;
+    width: 20%;
     float: right;
 }
 
 .nav-contact img{
 	width: 27px;
-	margin-right: 5px;
+	margin-right: 10px;
 }
 
 .index-body{
@@ -130,16 +150,20 @@ html {
 	width: 150px;
 	text-align: center;
 	font-weight: normal;
-	font-size: 65%;
+	font-size: 55%;
 	color: #dcd5d5;
 	background-color: 8080806e;
 	border: 1.5px solid #dcd5d5;
 	padding: 0px 5px;
+
 }
 
 .dessert-botton a:hover{
 	display: block;
-    background-color: #4f4c4cad;
+    background-color: #dcd5d5;
+    color: #333232;
+    text-decoration: none;
+    font-size: 55%;
 }
 
 .index-image-restaurant a{
@@ -180,7 +204,7 @@ html {
 	width: 150px;
 	text-align: center;
 	font-weight: normal;
-	font-size: 65%;
+	font-size: 55%;
 	color: #626060;
 	background-color: 8080806e;
 	border: 1.5px solid #626060;
@@ -189,8 +213,10 @@ html {
 
 .restaurant-botton a:hover{
 	display: block;
-    background-color: #ebebebcf;
-    color: #181818e8;
+    background-color: #626060;
+    color: #f1f1f1e8;
+    text-decoration: none;
+    font-size: 55%;
 }
 
 .index-image-photo a{
@@ -231,7 +257,7 @@ html {
 	width: 150px;
 	text-align: center;
 	font-weight: normal;
-	font-size: 65%;
+	font-size: 55%;
 	color: #dcd5d5;
 	background-color: 8080806e;
 	border: 1.5px solid #dcd5d5;
@@ -240,7 +266,9 @@ html {
 
 .photo-botton a:hover{
 	display: block;
-    background-color: #4f4c4cad;
+    background-color: #dcd5d5;
+    color: #333232;
+    text-decoration: none;
 }
 
 /*Article Style*/
@@ -263,7 +291,7 @@ html {
     float: left;
     margin-top: 30px;
     padding-left: 50px;
-    /*è¨­å®šæ¯å€‹liæ¨™ç±¤å¯¬åº¦=1/3*/
+    /*圖片寬度切成三等份*/
     width :calc(100%/3);
     box-sizing: border-box;
     height: 0;
@@ -277,11 +305,16 @@ html {
 .wrapper{
     display: block;
     position: relative;
+    
 }
 
 .wrapper img{
     width: 100%;
     display: block;
+}
+
+.wrapper img:hover{
+	border: 2px solid #e4e4e4de;
 }
 
 .dessert-title{
@@ -291,7 +324,8 @@ html {
 .dessert-name{
     color: #dcd5d5;
     text-align: center;
-    font-size: 130%
+    font-size: 130%;
+    margin-top: 3%;
 }
 
 .footer{
@@ -301,7 +335,7 @@ html {
     line-height: 100px;
     text-align: center;
     font-weight: normal;
-    margin: 0px;
+    margin-top: 10px;
     color: #dcd5d5;
 }
 
