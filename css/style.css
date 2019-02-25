@@ -8,6 +8,7 @@ html {
     background-color: #092b4b;
     width: 100%;
     font-family: Microsoft JhengHei, Arial, sans-serif;
+    padding-top: 80px;
 }
 
 .hr-style{
@@ -55,22 +56,21 @@ html {
 .nav-menu{
     margin-top: 10px;
     font-size: 130%;
-    width: 65%;
     float: left;
 }
 
-.nav ul{
+.nav-menu ul{
     margin: 0; 
     padding: 0;
 }
 
-.nav li{
+.nav-menu li{
     list-style: none; 
     float: left;
     margin-right: 5px;
 }
 
-.nav li p{
+.nav-menu li p{
 	margin-top: 13px;
 	font-size: 110%;
     color: #d6d1d1;
@@ -94,8 +94,18 @@ html {
     margin-top: 27px;
     margin-right: 5%;
 	margin-left: 7%;
-    width: 20%;
     float: right;
+}
+
+.nav-contact ul{
+    margin: 0; 
+    padding: 0;
+}
+
+.nav-contact li{
+    list-style: none; 
+    float: left;
+    margin-right: 5px;
 }
 
 .nav-contact img{
