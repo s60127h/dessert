@@ -338,6 +338,88 @@ html {
     margin-top: 3%;
 }
 
+.dessert-body{
+    max-width: 940px;
+    margin: auto;
+}
+
+.dessert-body a{
+    text-decoration: none;
+    color: #d6d1d1;
+}
+
+.dessert-body p{
+    margin-top: 10px;
+    color: #d6d1d1;
+}
+
+.dessert-body a:hover{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.dessert-container{
+    background: #d6d1d1;
+    padding-top: 2%;
+    padding-left: 1%;    
+}
+
+.dessert-container p{
+    color: black;
+}
+
+.dessert-theme img{
+    margin: 0px auto;
+    width: 50%;
+    border-radius: 3%;
+    float: left;
+}
+
+.dessert-food{
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+
+.food-title{
+    margin:auto 20%;
+    border-bottom: 1.5px solid #ada6a6;
+}
+
+.dessert-pic p{
+	margin-left: -4%;
+	margin-bottom: 2%;
+	margin-top: -1%;
+    font-size:150%;
+    color: #494343;
+    font-weight: bold;
+}
+
+.dessert-pic{
+    float: left;
+    width: 40%; 
+    margin-left: 3%;
+}
+
+.dessert-pic img{
+    margin: 0px auto;
+    width: 100%;
+    border-radius: 7%;
+}
+
+.dessert-step{
+    float: right;
+    width:50%; 
+    margin-top: 7%;
+}
+
+.dessert-step p{
+    line-height: 2.5;
+    color:#4e4e4e;
+    font-weight: 500;
+}
+
 .footer{
     width: 100%;
     display: block;

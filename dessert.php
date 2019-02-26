@@ -14,7 +14,7 @@
     <hr class="hr-style">
       <ul id="gallery">
         <li  class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="biscuits.php" class="wrapper">
                 <img src="images/dessert/zip/雪Q餅.jpg">
                 <p class="dessert-name">雪Q餅</p>
             </a>
