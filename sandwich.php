@@ -9,22 +9,23 @@
     <?php include("nav.php") ?>
 
     <div class="dessert-body">
-        <p><a href="dessert.php">食譜</a> > 雪Q餅</p>
+        <p><a href="dessert.php">食譜</a> > 三明治</p>
         <div class="dessert-container">
-            <h3>[雪Q餅] 簡單好上手的免烤箱甜點</h3>
+            <h3>[三明治] 野餐必備快速餐點</h3>
             <hr>
 
             <div class="dessert-title-group clear">
                 <div class="dessert-theme">
-                    <img src="images/dessert/zip/雪Q餅.jpg">
+                    <img src="images/dessert/zip/三明治.jpg">
                 </div>
                 <div class="dessert-food">
                     <p class="food-title">食材</p>
-                    <p>奇福餅乾  200g</P>
-                    <p>棉花糖 150g</p>
-                    <p>奶油 50g</p>
-                    <p>奶粉 50g</p>
-                    <p>蔓越莓乾 100g</p>
+                    <p>蛋 1顆</p>
+                    <p>白吐司 2片</P>
+                    <p>火腿片 1片</p>
+                    <p>小黃瓜 0.5條</p>
+                    <p>美乃滋 少許</p>
+                    <p>起薩乳酪絲 少許</p>
                 </div>
             </div>
             <hr>

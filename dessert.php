@@ -95,7 +95,7 @@
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="sandwich.php" class="wrapper">
                 <img src="images/dessert/zip/三明治.jpg">
                 <p class="dessert-name">三明治</p>
             </a> 
