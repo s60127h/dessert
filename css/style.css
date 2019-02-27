@@ -366,7 +366,16 @@ html {
 }
 
 .dessert-container p{
-    color: black;
+    color: #494343;
+}
+
+.dessert-container h3{
+    text-align: center;
+}
+
+.dessert-container h3{
+	color: #464646;
+    text-align: center;
 }
 
 .dessert-theme img{
@@ -384,7 +393,8 @@ html {
 
 .food-title{
     margin:auto 20%;
-    border-bottom: 1.5px solid #ada6a6;
+    padding-bottom: 2%;
+    border-bottom: 1px solid #797474;
 }
 
 .dessert-pic p{
@@ -392,7 +402,7 @@ html {
 	margin-bottom: 2%;
 	margin-top: -1%;
     font-size:150%;
-    color: #494343;
+    color: #524e4e;
     font-weight: bold;
 }
 

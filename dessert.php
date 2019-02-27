@@ -21,7 +21,7 @@
             
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="cookie.php" class="wrapper">
                 <img src="images/dessert/zip/手工餅乾.jpg">
                 <p class="dessert-name">手工餅乾</p> 
             </a>
@@ -77,7 +77,7 @@
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="pancake.php" class="wrapper">
                 <img src="images/dessert/zip/鬆餅.jpg">
                 <p class="dessert-name">鬆餅</p>
             </a> 
