@@ -2,7 +2,7 @@
 <html lang="zh-YW">
 <head>
     <?php include("head.php") ?> 
-    <title>雪Q餅 Biscuits</title>
+    <title>三明治 Sandwich</title>
 </head>
 <body class="container-body">
 
@@ -25,7 +25,7 @@
                     <p>火腿片 1片</p>
                     <p>小黃瓜 0.5條</p>
                     <p>美乃滋 少許</p>
-                    <p>起薩乳酪絲 少許</p>
+                    <p>焗烤乳酪絲 少許</p>
                 </div>
             </div>
             <hr>
@@ -33,54 +33,44 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step1</p>
-                    <img src="images/dessert/zip/biscuits-1.jpg">
+                    <img src="images/dessert/zip/sandwich-1.jpg">
                 </div>
                 <div class="dessert-step">  
-                    <p>◆ 棉花糖剪小塊(幫助迅速融化)<br>
-                       ◆ 把餅乾扳成小塊，並和蔓越莓乾、奶粉混和均勻<br>
-                       ◆ 融化奶油</p>
+                    <p>◆ 吐司烤至兩面金黃備用(其中一面可以撒上乳酪絲增添風味)<br>
+                       ◆ TIPS: 其中一面可以撒上乳酪絲增添風味</p>
                 </div>
             </div>  
             <hr>
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step2</p>
-                    <img src="images/dessert/zip/biscuits-2.jpg">
+                    <img src="images/dessert/zip/sandwich-2.jpg">
                 </div>
                 <div class="dessert-step">  
-                    <p>◆ 棉花糖倒入融化奶油，小火隔水加熱直到完全融化</p>
+                    <p>◆ 擠上美乃滋</p>
                 </div>
             </div> 
             <hr>
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step3</p>
-                    <img src="images/dessert/zip/biscuits-3.jpg">
+                    <img src="images/dessert/zip/sandwich-3.jpg">
                 </div>
                 <div class="dessert-step">  
-                    <p>◆ 離火，將剩餘材料倒入拌勻<br>
-                       ◆ TIPS: 要快速，棉花糖一下子就會變黏稠會很難拌開</p>
+                    <p>◆ 烤火腿片，放在美乃滋上<br>
+                       ◆ 小黃光切絲加鹽拌勻抓至出水，放在火腿上</p>
                 </div>
             </div>   
             <hr>
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step4</p>
-                    <img src="images/dessert/zip/biscuits-4.jpg">
+                    <img src="images/dessert/zip/sandwich-4.jpg">
                 </div>
                 <div class="dessert-step">  
-                    <p>◆ 將材料倒至烘焙紙上，趁熱壓緊塑型<br>
-                       ◆ 稍微放涼後，冷藏1hr</p>
-                </div>
-            </div>   
-            <hr>
-            <div class="step-group wow fadeInUp clear">
-                <div class="dessert-pic">          
-                    <p>Step5</p>
-                    <img src="images/dessert/zip/biscuits-5.jpg">
-                </div>
-                <div class="dessert-step">  
-                    <p>◆ 取出後切成適當大小就完成囉!</p>
+                    <p>◆ 煎蛋，放所有食材上<br>
+                       ◆ 將有乳酪絲的吐司蓋上去就完成囉!<br>
+                       ◆ (沒拍到照片，拿鮪魚玉米的代替一下 XD)</p>
                 </div>
             </div>   
             <hr>

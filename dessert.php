@@ -28,50 +28,50 @@
 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="notyet.php" class="wrapper">
                 <img src="images/dessert/zip/香蕉巧克力布朗尼.jpg">
                 <p class="dessert-name">香蕉巧克力布朗尼</p>
             </a> 
             
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="baileys_nobake.php" class="wrapper">
                 <img src="images/dessert/zip/奶酒oreo生乳酪.jpg">
                 <p class="dessert-name">奶酒oreo生乳酪</p>
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="notyet.php" class="wrapper">
                 <img src="images/dessert/zip/法式吐司.jpg">
                 <p class="dessert-name">法式吐司</p>
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="notyet.php" class="wrapper">
                 <img src="images/dessert/zip/抹茶紅豆千層.jpg">
                 <p class="dessert-name">抹茶紅豆千層</p>
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="notyet.php" class="wrapper">
                 <img src="images/dessert/zip/三眼怪抹茶塔.jpg">
                 <p class="dessert-name">三眼怪抹茶塔</p>
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="notyet.php" class="wrapper">
                 <img src="images/dessert/zip/牛粒.jpg">
                 <p class="dessert-name">牛粒</p>
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="egg_tart.php" class="wrapper">
                 <img src="images/dessert/zip/台式蛋塔.jpg">
                 <p class="dessert-name">台式蛋塔</p>
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="notyet.php" class="wrapper">
                 <img src="images/dessert/zip/原味日式起司條.jpg">
                 <p class="dessert-name">原味日式起司條</p>
             </a> 
@@ -83,13 +83,13 @@
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="notyet.php" class="wrapper">
                 <img src="images/dessert/zip/輕乳酪蛋糕.jpg">
                 <p class="dessert-name">輕乳酪蛋糕</p>
             </a> 
         </li>
         <li class="wow fadeInUp">
-            <a href="#" class="wrapper">
+            <a href="notyet.php" class="wrapper">
                 <img src="images/dessert/zip/生巧克力塔.jpg">
                 <p class="dessert-name">生巧克力塔</p>
             </a> 

@@ -359,6 +359,10 @@ html {
     text-decoration: none;
 }
 
+#notyet{
+    width:100%;
+}
+
 .dessert-container{
     background: #d6d1d1;
     padding-top: 2%;
@@ -392,9 +396,23 @@ html {
 }
 
 .food-title{
-    margin:auto 20%;
+    margin: auto 20%;
     padding-bottom: 2%;
     border-bottom: 1px solid #797474;
+}
+
+.dessert-food-1{
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding-left: 15%;
+}
+
+.dessert-food-2{
+    float: right;
+    width: 50%;
+    text-align: center;
+    padding-right: 15%;
 }
 
 .dessert-pic p{
