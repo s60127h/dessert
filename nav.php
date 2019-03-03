@@ -1,8 +1,8 @@
     <div class="menu-container wow slideInDown fixed-top">
-      <div class="menu-logo clear">
+      <nav class="nav clear">
+      <div class="menu-logo">
         <h1><a href="index.php">My Dessert</a></h1>
       </div><!-- menu-logo -->
-      <nav class="nav">
         <div class="nav-menu">
           <ul class="clear">
             <li><a href="dessert.php">手作甜點</a></li>

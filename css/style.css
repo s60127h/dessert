@@ -29,8 +29,8 @@ html {
 
 .menu-logo{
 	margin-right: 5%;
-	margin-left: 5%;
-    width: 20%;
+    margin-left: 5%;
+    width: 15%;
     float: left;
     color: #dcd5d5;
 }
@@ -47,8 +47,8 @@ html {
 }
 
 .menu-logo h1{
-	margin: 0px;
-	margin-top: 11px;
+    margin-top: 22px;
+    font-size: 180%;
 	text-align: center;
 	font-weight: normal;
 }
@@ -57,6 +57,8 @@ html {
     margin-top: 10px;
     font-size: 130%;
     float: left;
+    margin-left: 5.5%;
+	width: 55%;
 }
 
 .nav-menu ul{
@@ -92,8 +94,6 @@ html {
 
 .nav-contact {
     margin-top: 27px;
-    margin-right: 5%;
-	margin-left: 7%;
     float: right;
 }
 
@@ -111,6 +111,23 @@ html {
 .nav-contact img{
 	width: 27px;
 	margin-right: 10px;
+}
+
+@media screen and (max-width: 1024px){
+
+    .menu-logo{
+        margin-left: 3%;
+        width:17%;
+    }
+    
+    .nav-menu{
+        margin-left: -2%;
+        width: 60%;
+    }
+
+    .nav-contact{
+        margin-left: 1%;
+    }
 }
 
 .index-body{
