@@ -1,5 +1,5 @@
-    <div class="menu-container wow slideInDown fixed-top">
-      <nav class="nav clear">
+    <div class="menu-container wow slideInDown  fixed-top">
+      <nav id="nav" class="nav d-flex align-items-center clear">
       <div class="menu-logo">
         <h1><a href="index.php">My Dessert</a></h1>
       </div><!-- menu-logo -->

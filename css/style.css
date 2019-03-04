@@ -23,14 +23,15 @@ html {
     background-color: #092b4b;
     border-top: 3px solid #454141;
     height: 80px;
-    padding-left:5%;
-    padding-right:5%;
+}
+
+#nav{
+	margin-top: 10px;
 }
 
 .menu-logo{
-	margin-right: 5%;
     margin-left: 5%;
-    width: 15%;
+    width: 22%;
     float: left;
     color: #dcd5d5;
 }
@@ -47,18 +48,16 @@ html {
 }
 
 .menu-logo h1{
-    margin-top: 22px;
     font-size: 180%;
 	text-align: center;
 	font-weight: normal;
 }
 
 .nav-menu{
-    margin-top: 10px;
     font-size: 130%;
     float: left;
-    margin-left: 5.5%;
-	width: 55%;
+	width: 59%;
+	padding-left: 1%;
 }
 
 .nav-menu ul{
@@ -93,7 +92,6 @@ html {
 }
 
 .nav-contact {
-    margin-top: 27px;
     float: right;
 }
 
@@ -113,7 +111,7 @@ html {
 	margin-right: 10px;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 900px){
 
     .menu-logo{
         margin-left: 3%;
@@ -193,6 +191,24 @@ html {
     font-size: 55%;
 }
 
+@media screen and (max-width: 900px){
+    
+    .dessert-description{
+        top:5%;
+        line-height: 40px;
+        font-size: 130%;
+    }
+
+    .dessert-botton a{
+        top:12%;
+        line-height: 40px;
+        width: 120px;
+        font-size: 42%;
+        border: 1px solid #dcd5d5;
+    }
+
+}
+
 .index-image-restaurant a{
     text-decoration: none;
     color: #626060;
@@ -246,6 +262,24 @@ html {
     font-size: 55%;
 }
 
+@media screen and (max-width: 900px){
+    
+    .restaurant-description{
+        top: 42%;
+        line-height: 40px;
+        font-size: 130%;
+    }
+
+    .restaurant-botton a{
+        top: 49%;
+        line-height: 40px;
+        width: 120px;
+        font-size: 42%;
+        border: 1px solid #817b7be0;
+    }
+
+}
+
 .index-image-photo a{
     text-decoration: none;
     color: #dcd5d5;
@@ -296,6 +330,24 @@ html {
     background-color: #dcd5d5;
     color: #333232;
     text-decoration: none;
+}
+
+@media screen and (max-width: 768px){
+    
+    .photo-description{
+        top: 77%;
+        line-height: 45px;
+        font-size: 130%;
+    }
+
+    .photo-botton a{
+        top: 82%;
+        line-height: 40px;
+        width: 120px;
+        font-size: 42%;
+        border: 1px solid #dcd5d5;
+    }
+
 }
 
 /*Article Style*/
