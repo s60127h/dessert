@@ -2,6 +2,10 @@ html {
 	background-color: #092b4b;
 }
 
+.loginbg{
+	background-color:white;
+}
+
 .container-body{
 /*    max-width: 940px;  */
     margin: auto;
@@ -23,6 +27,34 @@ html {
     background-color: #092b4b;
     border-top: 3px solid #454141;
     height: 80px;
+}
+
+.login{
+    margin: 0px auto;
+}
+
+.login-top img{
+    text-align: center;
+    margin: auto;
+    width:100%;
+}
+
+.userkeyin{
+	border: 1px solid #d2dbe1;
+	border-radius: 2%;
+	padding: 3%;
+	margin: 5% auto;
+	width: 30%;
+}
+
+.userkeyin img{
+	display: block;
+	width: 40%;
+	margin: -3% auto 3%;
+}
+
+.userkeyin img{
+
 }
 
 #nav{
