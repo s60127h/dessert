@@ -18,7 +18,16 @@
           <ul class="clear">
             <li><a href="https://www.instagram.com/sr_dessertlife/"><img src="images/icon/instagram.png"></a></li>            
             <li><a href="https://github.com/s60127h/dessert"><img src="images/icon/github.png"></a></li>
-            <li><a href="login.php"><img src="images/icon/gmail.png"></a></li>
+            <li>
+              <?php 
+                if(isset($_SESSION['is_login'])){
+                  echo "<a href='logout.php'>";
+                }else{
+                  echo "<a href='login.php'>";
+                }
+              ?>
+                <img src="images/icon/gmail.png"></a>
+              </li>
           </ul>
         </div>
       </nav>

@@ -29,4 +29,11 @@ switch($p) {
     break;
 }
 
+  if($p === "index"): include("index.php");
+  elseif($p === "dessert"): include("dessert.php");
+  elseif($p === "restaurant"): include("restaurant.php");
+  elseif($p === "photo"): include("photo.php");  
+  else: echo "error page not found";  
+  endif;
+
 ?>

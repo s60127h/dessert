@@ -1,12 +1,14 @@
+<?php session_start(); ?>
+
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-    <?php include("head.php") ?> 
+    <?php include("head.php"); ?> 
     <title>Dessert</title>
 </head>
 <body class="container-body">
 
-    <?php include("nav.php") ?>
+    <?php include("nav.php"); ?>
 
     <div class="index-body">
       <div class="index-image-dessert">
@@ -30,6 +32,6 @@
   -->
     </div><!-- body -->
 
-    <?php include("footer.php") ?>
+    <?php include("footer.php"); ?>
 </body>
 </html>

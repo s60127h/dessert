@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-    <?php include("head.php") ?>
+    <?php include("head.php"); ?>
     <title>手作甜點</title>
 </head>
 
 <body class="container-body">
-    <?php include("nav.php") ?>
+    <?php include("nav.php"); ?>
     <!-- 要多給圖片一個div不然margin-top不對會跑版 -->
 	<div class="main-area clear">
     <br>
@@ -103,7 +103,7 @@
       </ul>
     </div><!-- main area -->
 
-    <?php include("footer.php") ?>
+    <?php include("footer.php"); ?>
 </body>
 
 </html>
