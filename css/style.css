@@ -556,6 +556,13 @@ html {
     font-weight: 500;
 }
 
+.error{
+    color: red;
+    font-size: 80%;
+    padding-left: 4%;
+    padding-top: 1%;
+}
+
 .footer{
     width: 100%;
     display: block;

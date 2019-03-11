@@ -19,9 +19,7 @@
       {
         $_SESSION['is_login'] = FALSE;
 
-        $_SESSION['msg'] =  "<div class='invalid-feedback'>".
-                            "密碼錯誤，請再試一次。".
-                            "</div>";
+        $_SESSION['msg'] = "<div class='error'>密碼錯誤，請再試一次。</div>";
         
         header("location: login.php");
       }
