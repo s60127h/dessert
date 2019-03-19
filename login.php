@@ -42,6 +42,8 @@
     </div>
 
     <?php
+        include("connectlocal.php");
+        echo "可以include";
     //if($_SERVER['REQUEST_METHOD'] == "POST"){
     //    $account = $_POST['account'];
     //    $password = $_POST['password'];

@@ -1,17 +1,17 @@
 <?php
-$dbms='mysql';     //数据库类型
-$host='localhost'; //数据库主机名
-$dbName='library';    //使用的数据库
-$user='root';      //数据库连接用户名
-$pass='';          //对应的密码
+$dbms='mysql';     //資料庫類型
+$host='localhost'; //資料庫位址或IP
+$dbName='sr_dessert';    //使用的資料庫
+$user='root';      //資料庫帳號
+$pass='';          //資料庫密碼
 $dsn="$dbms:host=$host;dbname=$dbName";
 
 
 try {
-    $conn = new PDO($dsn, $user, $pass); //初始化一个PDO对象
-    // $conn->exec("SET CHARACTER SET utf8");
+    $conn = new PDO($dsn, $user, $pass); //初始化PDO
+    $conn->exec("SET CHARACTER SET utf8");
     $conn->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
-    echo "连接成功<br/>";
+    echo "連接成功<br/>";
 
     } catch (PDOException $e) {
     die ("Error!: " . $e->getMessage() . "<br/>");

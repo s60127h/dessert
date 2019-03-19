@@ -167,6 +167,23 @@ html {
     }
 }
 
+.nav-login a{
+    text-decoration: none;
+    color: #d6d1d1;
+    border: 1px solid  #d6d1d1;
+    padding: 0px 2%;
+}
+
+.nav-login a:hover{
+    text-decoration: none;
+    color: #d6d1d1;
+    border: 1px solid  #d6d1d1;
+    padding: 0px 2%;
+    display: block;
+    background-color: #dcd5d5;
+    color: #333232;
+}
+
 .index-body{
     position: relative;
 }
