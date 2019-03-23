@@ -16,14 +16,14 @@
         </div>
         <div class="nav-contact">
           <ul class="clear">
-            <li><a href="https://www.instagram.com/sr_dessertlife/"><img src="images/icon/instagram.png"></a></li>            
-            <li><a href="https://github.com/s60127h/dessert"><img src="images/icon/github.png"></a></li>
+<!--            <li><a href="https://www.instagram.com/sr_dessertlife/"><img src="images/icon/instagram.png"></a></li>            
+            <li><a href="https://github.com/s60127h/dessert"><img src="images/icon/github.png"></a></li> -->
             <li><div class="dessert-body">
               <?php 
                 if(isset($_SESSION['is_login'])){
                   echo "<a href='logout.php'>登出";
                 }else{
-                  echo "<a href='login.php'>登入";
+                  echo "<a href='login.php'>登入</a> &nbsp; <a href='register.php'>註冊";
                 }
               ?>
                 </a></div>

@@ -16,7 +16,7 @@
 
             <div class="dessert-title-group clear">
                 <div class="dessert-theme">
-                    <img src="images/dessert/zip/雪Q餅.jpg">
+                    <img src="images/dessert/list/雪Q餅.jpg">
                 </div>
                 <div class="dessert-food">
                     <p class="food-title">食材</p>
@@ -32,7 +32,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step1</p>
-                    <img src="images/dessert/zip/biscuits-1.jpg">
+                    <img src="images/dessert/biscuits/biscuits-1.jpg">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 棉花糖剪小塊(幫助迅速融化)<br>
@@ -44,7 +44,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step2</p>
-                    <img src="images/dessert/zip/biscuits-2.jpg">
+                    <img src="images/dessert/biscuits/biscuits-2.jpg">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 棉花糖倒入融化奶油，小火隔水加熱直到完全融化</p>
@@ -54,7 +54,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step3</p>
-                    <img src="images/dessert/zip/biscuits-3.jpg">
+                    <img src="images/dessert/biscuits/biscuits-3.jpg">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 離火，將剩餘材料倒入拌勻<br>
@@ -65,7 +65,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step4</p>
-                    <img src="images/dessert/zip/biscuits-4.jpg">
+                    <img src="images/dessert/biscuits/biscuits-4.jpg">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 將材料倒至烘焙紙上，趁熱壓緊塑型<br>
@@ -76,7 +76,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step5</p>
-                    <img src="images/dessert/zip/biscuits-5.jpg">
+                    <img src="images/dessert/biscuits/biscuits-5.jpg">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 取出後切成適當大小就完成囉!</p>

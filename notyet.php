@@ -2,7 +2,7 @@
 <html lang="zh-YW">
 <head>
     <?php include("head.php") ?> 
-    <title>台式蛋塔 Egg Tarts</title>
+    <title>食譜製作中敬請期待</title>
 </head>
 <body class="container-body">
 
@@ -10,7 +10,7 @@
 
     <div class="dessert-body">
         <p><a href="dessert.php"> > 按此返回食譜目錄</p>
-        <img id="notyet" src="images/dessert/zip/notyet.jpg">
+        <img id="notyet" src="images/dessert/notyet.jpg">
     </div>
     
     <?php include("footer.php") ?>

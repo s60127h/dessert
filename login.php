@@ -1,4 +1,4 @@
-<?php session_start(); ?>
+<?php require_once 'link/connectlocal.php'; ?>
 
 <!DOCTYPE html>
 <html lang="zh-TW" class="loginbg">
@@ -15,34 +15,34 @@
   <?php else: ?>
     <div class="login">
         <div class="login-top">
-            <img src="images/zip/logo-5.jpg">
+            <img src="images/index_icon/logo-5.jpg">
         </div>
         <form method="POST" action="check_login.php" class="needs-validation" novalidate>
         <div class="userkeyin">
 <!--            <img src="images/icon/sr-icon.jpg"> -->
             <div class="form-group">
-                <label for="validationServer01">信箱帳號</label>
-                <input type="email" class="form-control" name="account" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="example@gmail.com" required>
+                <label for="account">信箱帳號</label>
+                <input type="email" class="form-control" name="account" id="account" aria-describedby="emailHelp" placeholder="example@gmail.com" required>
 <!--                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
             </div>
             <div class="form-group">
-                <label for="exampleInputPassword1">密碼</label>
-                <input type="password" class="form-control" name="password" id="exampleInputPassword1" placeholder="Password" required>               
+                <label for="password">密碼</label>
+                <input type="password" class="form-control" name="password" id="password" placeholder="Password" required>               
                   <?php 
                     if(isset($_SESSION['msg'])){
                       echo $_SESSION['msg'];
                     } 
                   ?>
             </div>
-            <button type="submit" class="btn btn-primary">登入</button>
+            <button type="submit" class="btn btn-primary" >登入</button>
         </div>
         </form>
         <br>
-        <p class="create-account">還沒有帳號嗎?現在就辦一個吧!&emsp;<a href="#">註冊帳號</a></p>
+        <p class="create-account">還沒有帳號嗎?現在就辦一個吧!&emsp;<a href="register.php">註冊帳號</a></p>
     </div>
 
     <?php
-        include("connectlocal.php");
+        include("link/connectlocal.php");
         echo "可以include";
     //if($_SERVER['REQUEST_METHOD'] == "POST"){
     //    $account = $_POST['account'];
