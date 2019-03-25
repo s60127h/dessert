@@ -9,7 +9,10 @@
     <?php include("nav.php") ?>
 
     <div class="dessert-body">
-        <p><a href="dessert.php">食譜</a> > 鬆餅</p>
+    <div id="dessert-top" class="clear">
+            <p class="back-menu col-xs-11 col-sm-11"><a href="dessert.php">食譜</a> > 鬆餅</p>
+            <p id="heart" class="col-xs-1 col-sm-1" title="加入最愛">♥</p>
+        </div>
         <div class="dessert-container">
             <h3>[鬆餅] 超簡單平底鍋料理</h3>
             <hr>

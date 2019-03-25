@@ -9,7 +9,10 @@
     <?php include("nav.php") ?>
 
     <div class="dessert-body">
-        <p><a href="dessert.php">食譜</a> > 奶酒oreo生乳酪</p>
+        <div id="dessert-top" class="clear">
+            <p class="back-menu col-xs-11 col-sm-11"><a href="dessert.php">食譜</a> > 奶酒oreo生乳酪</p>
+            <p id="heart" class="col-xs-1 col-sm-1" title="加入最愛">♥</p>
+        </div>
         <div class="dessert-container">
             <h3>[奶酒oreo生乳酪] 免烤箱送人自用兩相宜蛋糕(6吋)</h3>
             <hr>

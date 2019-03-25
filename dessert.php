@@ -1,4 +1,4 @@
-<?php //require_once 'link/connectlocal.php'; ?>
+<?php require_once 'link/connectlocal.php'; ?>
 
 <!DOCTYPE html>
 <html lang="zh-TW">
@@ -12,7 +12,7 @@
     <!-- 要多給圖片一個div不然margin-top不對會跑版 -->
 	<div class="main-area clear">
     <br>
-    <h2 class="dessert-title">甜點清單</h2>
+    <h2 id="dessert-title">甜點清單</h2>
     <hr class="hr-style">
       <ul id="gallery">
         <li data-heartpic="♥" data-heartnum="5" data-lookmore="點擊查看食譜" class="wow fadeInUp">

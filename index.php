@@ -1,4 +1,4 @@
-<?php //require_once 'link/connectlocal.php'; ?>
+<?php require_once 'link/connectlocal.php'; ?>
 
 <!DOCTYPE html>
 <html lang="zh-TW">
