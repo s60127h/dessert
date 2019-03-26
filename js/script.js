@@ -12,6 +12,17 @@ $(document).ready(function(){
         
     }); */
 
+    $('.nav-wrapper ul').mouseenter(function(){
+        if(!$(this).css("display") == "none"){
+            $(this).show();
+        }else{
+            $(this).hide();
+        }
+        
+    });
+
+
+
     //使用者滑鼠移到圖片上時，顯示愛心數
     $('ul#gallery li .wrapper').mouseenter(function(){
 		var pic = $(this).parent('li').data('heartpic');
