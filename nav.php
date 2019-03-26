@@ -7,19 +7,22 @@
           <ul class="clear">
             <li><a href="dessert.php">手作甜點</a>
               <ul>
-                <div class="nav-select-1 clear">
-                  <div class="nav-select-title-1">
-                    <p>所有列表</p>
+                <div class="nav-select clear">
+                  <div class="nav-select-1">
+                    <p class="nav-select-title">所有列表</p>
+                    <li><a href="dessert.php">全部</a></li>
+
                   </div>
-                  <li><a href="dessert.php">全部</a></li>
-                  <p class="nav-select-title-2">免烤箱甜點</p>
-                  <li><a href="biscuits.php">雪Q餅</a></li>
-                  <li><a href="baileys_nobake.php">奶酒oreo生乳酪</a></li>
-                  <li><a href="#">抹茶紅豆千層</a></li>
-                  <li><a href="#">生巧克力塔</a></li>                
-                  <li><a href="pancake.php">鬆餅</a></li>
-                  <li><a href="#">法式吐司</a></li>
-                  <li><a href="sandwich">三明治</a></li>
+                  <div class="nav-select-2">
+                    <p class="nav-select-title">免烤箱甜點</p>
+                    <li><a href="biscuits.php">雪Q餅</a></li>
+                    <li><a href="baileys_nobake.php">奶酒oreo生乳酪</a></li>
+                    <li><a href="#">抹茶紅豆千層</a></li>
+                    <li><a href="#">生巧克力塔</a></li>                
+                    <li><a href="pancake.php">鬆餅</a></li>
+                    <li><a href="#">法式吐司</a></li>
+                    <li><a href="sandwich">三明治</a></li>
+                  </div>
                 </div>
               </ul>
             </li>
