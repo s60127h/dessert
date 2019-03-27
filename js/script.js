@@ -12,13 +12,15 @@ $(document).ready(function(){
         
     }); */
 
-    $('.nav-wrapper ul').mouseenter(function(){
-        if(!$(this).css("display") == "none"){
+    $('.nav-menu li ul').mouseenter(function(){
+        if($(this).css("display") == "none"){
             $(this).show();
-        }else{
-            $(this).hide();
         }
-        
+    });
+
+
+    $('#heart').click(function(){
+
     });
 
 
