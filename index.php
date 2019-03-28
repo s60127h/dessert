@@ -1,4 +1,5 @@
-<?php //include_once 'link/connectlocal.php'; ?>
+<?php include_once 'link/connectlocal.php'; ?>
+<?php //include_once 'check_login.php'; ?>
 
 <!DOCTYPE html>
 <html lang="zh-TW">

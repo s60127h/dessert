@@ -594,7 +594,7 @@ a.wrapper img:hover{
 /*********************************************/
 
 #dessert-title{
-    color: #f1f1f1;;
+    color: #f1f1f1;
 }
 
 .dessert-name{
@@ -660,6 +660,13 @@ a.wrapper img:hover{
 }
 
 #heart:hover{
+	background: #eb3d3d;
+    border: 2px solid #eb3d3d;
+	color: #ffffff;
+	font-size: 150%;
+}
+
+#hearted{
 	background: #eb3d3d;
     border: 2px solid #eb3d3d;
 	color: #ffffff;
@@ -739,6 +746,54 @@ a.wrapper img:hover{
     padding-left: 4%;
     padding-top: 1%;
 }
+
+/*********************收藏頁********************/
+.collect-body{
+    max-width: 940px;
+    margin: auto;
+}
+
+/*顯示歡迎詞*/
+.collect-top p{
+    color:#f1f1f1;
+}
+
+.media img{
+	width: 15%;
+}
+
+/*連結css*/
+.card-body a{
+    text-decoration: none;
+    color: #323232;
+}
+
+.card-body a:hover{
+    text-decoration: none;
+}
+
+/*單項最愛底色*/
+.media{
+	padding: 10px 0px 0px 10px;
+}
+
+.media:hover{
+	background-color: #d4d4d4cc;
+	padding: 10px 0px 0px 10px;
+	border-radius: 5px;
+}
+
+/*單項名稱*/
+.media-body h5{
+    color: #484747;
+    text-decoration: underline;
+}
+/*單項描述*/
+.media-body p{
+    color: #484747e6;
+}
+
+/***********************************************/
 
 .footer{
     width: 100%;

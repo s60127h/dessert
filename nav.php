@@ -50,7 +50,7 @@
             <li><div class="dessert-body">
               <?php 
                 if(isset($_SESSION['is_login'])){
-                  echo "<a href='logout.php'>&emsp;&emsp;&emsp;登出";
+                  echo "<a href='collection.php'>收藏</a> <a href='logout.php'>&emsp;&emsp;&emsp;登出";
                 }else{
                   echo "<a href='register.php'>註冊</a> &emsp; <div id='loginbt'><a href='login.php' >登入";
                 }

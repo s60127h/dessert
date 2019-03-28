@@ -1,3 +1,5 @@
+<?php include_once 'link/connectlocal.php'; ?>
+
 <!DOCTYPE html>
 <html lang="zh-YW">
 <head>
@@ -11,7 +13,7 @@
     <div class="dessert-body">
         <div id="dessert-top" class="clear">
             <p class="back-menu col-xs-11 col-sm-11"><a href="dessert.php">食譜</a> > 雪Q餅</p>
-            <p id="heart" class="col-xs-1 col-sm-1" title="加入最愛">♥</p>
+            <input id="heart" type="submit" class="col-xs-1 col-sm-1" title="加入最愛" value="♥">
         </div>
                
         <div class="dessert-container">

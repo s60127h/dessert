@@ -1,4 +1,4 @@
-<?php //include_once 'link/connectlocal.php'; ?>
+<?php include_once 'link/connectlocal.php'; ?>
 
 <!DOCTYPE html>
 <html lang="zh-TW">

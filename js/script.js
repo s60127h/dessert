@@ -12,15 +12,17 @@ $(document).ready(function(){
         
     }); */
 
-    $('.nav-menu li ul').mouseenter(function(){
-        if($(this).css("display") == "none"){
-            $(this).show();
-        }
-    });
+ //   $('.nav-menu li ul').mouseenter(function(){
+   //     if($(this).css("display") == "none"){
+     //       $(this).show();
+       // }
+   // });
 
 
     $('#heart').click(function(){
-
+        if($(this).css("background") == "#d6d1d1"){
+           $(this).addClass("#hearted");
+        }
     });
 
 
