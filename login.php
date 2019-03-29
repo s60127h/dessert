@@ -1,4 +1,4 @@
-<?php require_once 'link/connectlocal.php'; ?>
+<?php //require_once 'link/connectlocal.php'; ?>
 
 <!DOCTYPE html>
 <html lang="zh-TW" class="loginbg">
@@ -42,8 +42,8 @@
     </div>
 
     <?php
-        include("link/connectlocal.php");
-        echo "可以include";
+    //    include("link/connectlocal.php");
+    //    echo "可以include";
     //if($_SERVER['REQUEST_METHOD'] == "POST"){
     //    $account = $_POST['account'];
     //    $password = $_POST['password'];

@@ -1,4 +1,4 @@
-<?php require_once 'link/connectlocal.php'; ?>
+<?php //require_once 'link/connectlocal.php'; ?>
 
 <!DOCTYPE html>
 <html lang="zh-TW" class="loginbg">
@@ -47,24 +47,7 @@
                 </div>
             </div>    
     </form>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script>
-        $(document).ready(function(){
-            $("#register_form").submit(function(){
-                if($("#password").val() != $("#check_password").val()){
-                //    $("#register_form").addClass('needs-validation');
-                    $("#password").addClass('is-invalid');
-                    $("#check_password").addClass('is-invalid');
-                //    $("#invalid-feedback").addClass('invalid-feedback');
-                    alert("請確認您輸入的密碼相同");
-                    return false;
-                    
-                }
-                
-            });
-        });
-    
-    </script>
+
 
 
 </body>

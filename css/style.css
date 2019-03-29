@@ -649,28 +649,31 @@ a.wrapper img:hover{
 }
 
 /*甜點頁加入最愛按鈕*/
-#heart{
+.heart{
     float: right;
     text-align: center;
 	background: #d6d1d1;
     border: 2px solid #d6d1d1;
     border-radius: 7%;
 	color: #d03e3e;
-	font-size: 150%;
+    font-size: 150%;
+    outline: none;
 }
 
-#heart:hover{
+.heart:hover{
 	background: #eb3d3d;
     border: 2px solid #eb3d3d;
 	color: #ffffff;
 	font-size: 150%;
 }
 
-#hearted{
+.hearted{
 	background: #eb3d3d;
     border: 2px solid #eb3d3d;
 	color: #ffffff;
-	font-size: 150%;
+    font-size: 150%;
+    border-radius: 7%;
+    outline: none; /*點擊後取消按鈕虛線邊框*/
 }
 /*****************************************/
 

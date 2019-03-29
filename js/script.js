@@ -1,31 +1,40 @@
 $(document).ready(function(){
-/*    $("#register_form").submit(function(){
+
+    //註冊驗證兩次密碼相同
+    $("#register_form").submit(function(){
         if($("#password").val() != $("#check_password").val()){
-        //    $("#register_form").addClass('needs-validation');
             $("#password").addClass('is-invalid');
             $("#check_password").addClass('is-invalid');
-        //    $("#invalid-feedback").addClass('invalid-feedback');
-            alert("請確認您輸入的密碼相同");
+            //alert("請確認您輸入的密碼相同");
             return false;
             
         }
         
+    }); 
+
+/*    $('.nav-menu li ul').mouseenter(function(){
+        if($(this).css("display","none")){
+           $(this).show();
+        }
     }); */
 
- //   $('.nav-menu li ul').mouseenter(function(){
-   //     if($(this).css("display") == "none"){
-     //       $(this).show();
-       // }
-   // });
-
-
-    $('#heart').click(function(){
-        if($(this).css("background") == "#d6d1d1"){
-           $(this).addClass("#hearted");
-        }
+    //按下加入最愛時的變化
+    $('#dessert-top input').click(function(){
+        if($(this).hasClass('heart')){
+            $(this).removeClass('heart');
+            $(this).addClass('hearted');   
+        }else{
+            $(this).removeClass('hearted');
+            $(this).addClass('heart');
+        }  
     });
 
-
+/*    $('#dessert-top input').mouseenter(function(){
+        if($(this).hasClass('hearted')){
+            $(this).addClass('hearted'); 
+            $(this).removeClass('heart-hover');
+        }
+    });*/
 
     //使用者滑鼠移到圖片上時，顯示愛心數
     $('ul#gallery li .wrapper').mouseenter(function(){
