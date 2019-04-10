@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+    $("img.lazy").lazyload();
+
     //註冊驗證兩次密碼相同
     $("#register_form").submit(function(){
         if($("#password").val() != $("#check_password").val()){

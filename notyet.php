@@ -10,7 +10,7 @@
 
     <div class="dessert-body">
         <p><a href="dessert.php"> > 按此返回食譜目錄</p>
-        <img id="notyet" src="images/dessert/notyet.jpg">
+        <img id="notyet" data-original="images/dessert/notyet.jpg" class="lazy">
     </div>
     
     <?php include("footer.php") ?>

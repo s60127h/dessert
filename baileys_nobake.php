@@ -20,7 +20,7 @@
 
             <div class="dessert-title-group clear">
                 <div class="dessert-theme">
-                    <img src="images/dessert/list/奶酒oreo生乳酪.jpg">
+                    <img data-original="images/dessert/list/奶酒oreo生乳酪.jpg" class="lazy">
                 </div>
                 <div class="dessert-food">
                     <p class="food-title clear">食材</p>
@@ -44,7 +44,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step1</p>
-                    <img src="images/dessert/baileys_nobake/baileys_nobake-1.jpg">
+                    <img data-original="images/dessert/baileys_nobake/baileys_nobake-1.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ [餅乾底]<br>
@@ -57,7 +57,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step2</p>
-                    <img src="images/dessert/baileys_nobake/baileys_nobake-2.jpg">
+                    <img data-original="images/dessert/baileys_nobake/baileys_nobake-2.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ [乳酪餡]<br>
@@ -71,7 +71,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step3</p>
-                    <img src="images/dessert/baileys_nobake/baileys_nobake-3.jpg">
+                    <img data-original="images/dessert/baileys_nobake/baileys_nobake-3.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ [組合]<br>
@@ -85,7 +85,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step4</p>
-                    <img src="images/dessert/baileys_nobake/baileys_nobake-4.jpg">
+                    <img data-original="images/dessert/baileys_nobake/baileys_nobake-4.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 取出後稍微用熱毛巾在模具周圍敷一下以利脫模<br>

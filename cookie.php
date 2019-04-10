@@ -20,7 +20,7 @@
 
             <div class="dessert-title-group clear">
                 <div class="dessert-theme">
-                    <img src="images/dessert/list/手工餅乾.jpg">
+                    <img data-original="images/dessert/list/手工餅乾.jpg" class="lazy">
                 </div>
                 <div class="dessert-food">
                     <p class="food-title">食材</p>
@@ -37,7 +37,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step1</p>
-                    <img src="images/dessert/nopic.jpg">
+                    <img data-original="images/dessert/nopic.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 無言奶油切小塊回復室溫，軟化後攪打成乳霜狀<br>
@@ -49,7 +49,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step2</p>
-                    <img src="images/dessert/nopic.jpg">
+                    <img data-original="images/dessert/nopic.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 全蛋打散，蛋液分三次加入攪拌均勻<br>
@@ -60,7 +60,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step3</p>
-                    <img src="images/dessert/nopic.jpg">
+                    <img data-original="images/dessert/nopic.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 低筋麵粉過篩後，分三次加入，用翻拌的方式混和均勻<br>
@@ -71,7 +71,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step4</p>
-                    <img src="images/dessert/nopic.jpg">
+                    <img data-original="images/dessert/nopic.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 到入適量粉類、果乾、茶葉<br>
@@ -82,7 +82,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step5</p>
-                    <img src="images/dessert/nopic.jpg">
+                    <img data-original="images/dessert/nopic.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 取出後切成適當大小<br>
@@ -93,7 +93,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step6</p>
-                    <img src="images/dessert/cookie/cookie-6.jpg">
+                    <img data-original="images/dessert/cookie/cookie-6.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 放涼後裝入保鮮盒保存<br>

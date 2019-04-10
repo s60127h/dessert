@@ -20,7 +20,7 @@
 
             <div class="dessert-title-group clear">
                 <div class="dessert-theme">
-                    <img src="images/dessert/list/台式蛋塔.jpg">
+                    <img data-original="images/dessert/list/台式蛋塔.jpg" class="lazy">
                 </div>
                 <div class="dessert-food">
                     <p class="food-title clear">食材</p>
@@ -45,7 +45,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step1</p>
-                    <img src="images/dessert/egg_tart/egg_tart-1.jpg">
+                    <img data-original="images/dessert/egg_tart/egg_tart-1.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ [塔皮製作]<br>
@@ -57,7 +57,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step2</p>
-                    <img src="images/dessert/egg_tart/egg_tart-2.jpg">
+                    <img data-original="images/dessert/egg_tart/egg_tart-2.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 奶粉、鹽、低筋麵粉過篩加入拌勻<br>
@@ -68,7 +68,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step3</p>
-                    <img src="images/dessert/egg_tart/egg_tart-3.jpg">
+                    <img data-original="images/dessert/egg_tart/egg_tart-3.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 麵團入模具，在邊緣用叉子壓出蛋塔圈，並刷上蛋汁<br>
@@ -79,7 +79,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step4</p>
-                    <img src="images/dessert/nopic.jpg">
+                    <img data-original="images/dessert/nopic.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ [內餡製作]<br>
@@ -92,7 +92,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step5</p>
-                    <img src="images/dessert/egg_tart/egg_tart-5.jpg">
+                    <img data-original="images/dessert/egg_tart/egg_tart-5.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 烤箱170度預熱10分鐘<br>

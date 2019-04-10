@@ -19,7 +19,7 @@
 
             <div class="dessert-title-group clear">
                 <div class="dessert-theme">
-                    <img src="images/dessert/list/三明治.jpg">
+                    <img data-original="images/dessert/list/三明治.jpg" class="lazy">
                 </div>
                 <div class="dessert-food">
                     <p class="food-title">食材</p>
@@ -36,7 +36,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step1</p>
-                    <img src="images/dessert/sandwich/sandwich-1.jpg">
+                    <img data-original="images/dessert/sandwich/sandwich-1.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 吐司烤至兩面金黃備用(其中一面可以撒上乳酪絲增添風味)<br>
@@ -47,7 +47,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step2</p>
-                    <img src="images/dessert/sandwich/sandwich-2.jpg">
+                    <img data-original="images/dessert/sandwich/sandwich-2.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 擠上美乃滋</p>
@@ -57,7 +57,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step3</p>
-                    <img src="images/dessert/sandwich/sandwich-3.jpg">
+                    <img data-original="images/dessert/sandwich/sandwich-3.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 烤火腿片，放在美乃滋上<br>
@@ -68,7 +68,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step4</p>
-                    <img src="images/dessert/sandwich/sandwich-4.jpg">
+                    <img data-original="images/dessert/sandwich/sandwich-4.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 煎蛋，放所有食材上<br>

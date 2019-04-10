@@ -20,7 +20,7 @@
 
             <div class="dessert-title-group clear">
                 <div class="dessert-theme">
-                    <img src="images/dessert/list/鬆餅.jpg">
+                    <img data-original="images/dessert/list/鬆餅.jpg" class="lazy">
                 </div>
                 <div class="dessert-food">
                     <p class="food-title">食材</p>
@@ -34,7 +34,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step1</p>
-                    <img src="images/dessert/nopic.jpg">
+                    <img data-original="images/dessert/nopic.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 將所有材料混合均勻變成麵糊<br></p>
@@ -44,7 +44,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">
                     <p>Step2</p>
-                    <img src="images/dessert/pancake/pancake-2.jpg">
+                    <img data-original="images/dessert/pancake/pancake-2.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 平底鍋抹奶油，將麵糊倒入一小匙<br>
@@ -56,7 +56,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step3</p>
-                    <img src="images/dessert/pancake/pancake-3.jpg">
+                    <img data-original="images/dessert/pancake/pancake-3.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 翻面後再煎個30秒左右，確保另一面熟透<br></p>
@@ -66,7 +66,7 @@
             <div class="step-group wow fadeInUp clear">
                 <div class="dessert-pic">          
                     <p>Step4</p>
-                    <img src="images/dessert/pancake/pancake-4.jpg">
+                    <img data-original="images/dessert/pancake/pancake-4.jpg" class="lazy">
                 </div>
                 <div class="dessert-step">  
                     <p>◆ 盛盤後抹上奶油或淋上蜂蜜等等喜歡的醬料就完成囉!<br></p>
